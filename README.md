@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**Lancs0022/Lancs0022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m LAIPELIKA Dufresnes Lancaster from SAYNA, it's a digital school to learn all digital jobs with good family spyrit 
 - 🌱 I actually learn to code and have skills in those programming langage :
@@ -12,7 +8,12 @@ Here are some ideas to get you started:
         # Php
         # Mysql
 
-- 👯 I’m looking to collaborate on many projects to challenge myself good luck for me 
+- 👯 I’m looking to collaborate on many projects to challenge myself good luck for me !
 - 📫 How to reach me: Lancs0022@gmail.com
--->
-  
+
+<br><br>
+More about SAYNA : https://sayna.io <br>
+More about me : https://www.linkedin.com/in/dufresnes-lancaster-laipelika-6b345a264/
+<br><br>
+ 
+--> To the pleasure of exchanging and/or callaborating together <--
