@@ -8,7 +8,7 @@
         # Php
         # Mysql
 
-- 👯 I’m looking to collaborate on many projects to challenge myself good luck for me !
+- 👯 I’m looking to collaborate on many projects to challenge. I wish myself good luck.
 - 📫 How to reach me: Lancs0022@gmail.com
 
 <br><br>
