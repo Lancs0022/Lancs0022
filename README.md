@@ -7,6 +7,7 @@
         # Html & css
         # Php
         # Mysql
+        # Java
 
 - 👯 I’m looking to collaborate on many projects to challenge. I wish myself good luck.
 - 📫 How to reach me: Lancs0022@gmail.com
