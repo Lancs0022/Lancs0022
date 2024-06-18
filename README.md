@@ -1,20 +1,22 @@
-### Hi there 👋
+Hi there 👋
 
+I'm LAIPELIKA Dufresnes Lancaster, a student at the University of Toamasina pursuing a degree in Computer Engineering within the MiA (Mathematics and Computer Science) program. In addition to my academic studies, I have also received training at SAYNA, where I developed strong web development skills.
 
-- 🔭 I’m LAIPELIKA Dufresnes Lancaster from SAYNA, it's a digital school to learn all digital jobs with good family spyrit 
-- 🌱 I actually learn to code and have skills in those programming langage :
-        # C
-        # Html & css
-        # Php
-        # Mysql
-        # Java
+    📚 Education: Currently studying Computer Engineering at the University of Toamasina in the MiA program.
 
-- 👯 I’m looking to collaborate on many projects to challenge. I wish myself good luck.
-- 📫 How to reach me: Lancs0022@gmail.com
+    🌱 Skills and Training:
+        Web Development: Trained at SAYNA, specializing in front-end and back-end technologies.
+        Programming Languages: Proficient in Java, C++, C, HTML & CSS, PHP.
+        Database Administration: Experienced in managing databases with MySQL.
+        Modeling Techniques: Skilled in using MERISE and UML for system modeling and design.
 
-<br><br>
-More about SAYNA : https://sayna.io <br>
-More about me : https://www.linkedin.com/in/dufresnes-lancaster-laipelika-6b345a264/
-<br><br>
+    🔭 Looking to Collaborate: I'm eager to collaborate on diverse projects to challenge myself and grow as a developer. I welcome any opportunities for collaboration and innovation.
+
+    📫 Contact Me: Feel free to reach out to me at Lancs0022@gmail.com.
+
+<br>
+
+More about SAYNA: SAYNA <br>
+More about me: LinkedIn
  
 --> To the pleasure of exchanging and/or callaborating together <--
