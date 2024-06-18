@@ -17,7 +17,7 @@ I have also received training at SAYNA, where I developed strong web development
 🔭 Looking to Collaborate: I'm eager to collaborate on diverse projects to challenge myself 
 and grow as a developer. I welcome any opportunities for collaboration and innovation.
 
-# 📫 Contact Me: Feel free to reach out to me at Lancs0022@gmail.com.
+📫 Contact Me: Feel free to reach out to me at Lancs0022@gmail.com.
 
 <br>
 
