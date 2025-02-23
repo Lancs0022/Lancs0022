@@ -5,7 +5,7 @@ pursuing a degree in Computer Engineering within the MiA (Mathematics and Comput
 program. In addition to my academic studies, 
 I have also received training at SAYNA, where I developed strong web development skills.
 
-📚 Education: Currently studying Computer Engineering at the University of Toamasina in the MiA program.
+📚 Education: Currently studying Computer Engineering from the University of Toamasina.
 
 🌱 Skills and Training:
 
@@ -18,10 +18,5 @@ I have also received training at SAYNA, where I developed strong web development
 and grow as a developer. I welcome any opportunities for collaboration and innovation.
 
 📫 Contact Me: Feel free to reach out to me at Lancs0022@gmail.com.
-
-<br>
-
-More about SAYNA: SAYNA <br>
-More about me: LinkedIn
  
 --> To the pleasure of exchanging and/or callaborating together <--
